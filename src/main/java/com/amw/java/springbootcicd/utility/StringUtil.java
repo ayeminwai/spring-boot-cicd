@@ -11,5 +11,7 @@ public class StringUtil {
 		isNull("ayeminwai");
 		
 		isNull(" ");
+		
+		isNull(null);
 	}
 }
