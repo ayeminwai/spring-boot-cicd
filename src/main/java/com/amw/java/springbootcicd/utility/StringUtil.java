@@ -9,5 +9,7 @@ public class StringUtil {
 		System.out.println("String Util starting");
 		
 		isNull("ayeminwai");
+		
+		isNull(" ");
 	}
 }
